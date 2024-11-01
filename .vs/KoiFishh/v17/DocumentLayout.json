@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNPM\\KoiFishh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106B336-ED62-475A-B3B2-1FADBEEA6E38}|KoiFishApp.Repositories\\KoiFishApp.Repositories.csproj|d:\\cnpm\\koifishh\\koifishapp.repositories\\koifishrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106B336-ED62-475A-B3B2-1FADBEEA6E38}|KoiFishApp.Repositories\\KoiFishApp.Repositories.csproj|solutionrelative:koifishapp.repositories\\koifishrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\pages\\ctkoifish\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\pages\\ctkoifish\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|d:\\cnpm\\koifishh\\koifishapp.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F8ED11-0C60-4848-AA79-1CAC1A04DBCF}|KoiFishApp.WebApplication\\KoiFishApp.WebApplication.csproj|solutionrelative:koifishapp.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106B336-ED62-475A-B3B2-1FADBEEA6E38}|KoiFishApp.Repositories\\KoiFishApp.Repositories.csproj|d:\\cnpm\\koifishh\\koifishapp.repositories\\entities\\qlcktncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106B336-ED62-475A-B3B2-1FADBEEA6E38}|KoiFishApp.Repositories\\KoiFishApp.Repositories.csproj|solutionrelative:koifishapp.repositories\\entities\\qlcktncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC389AF-1116-4411-BC2E-392F4FDCBBB6}|KoiFishApp.Services\\KoiFishApp.Services.csproj|d:\\cnpm\\koifishh\\koifishapp.services\\koifishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC389AF-1116-4411-BC2E-392F4FDCBBB6}|KoiFishApp.Services\\KoiFishApp.Services.csproj|solutionrelative:koifishapp.services\\koifishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC389AF-1116-4411-BC2E-392F4FDCBBB6}|KoiFishApp.Services\\KoiFishApp.Services.csproj|d:\\cnpm\\koifishh\\koifishapp.services\\interfaces\\ikoifishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC389AF-1116-4411-BC2E-392F4FDCBBB6}|KoiFishApp.Services\\KoiFishApp.Services.csproj|solutionrelative:koifishapp.services\\interfaces\\ikoifishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9106B336-ED62-475A-B3B2-1FADBEEA6E38}|KoiFishApp.Repositories\\KoiFishApp.Repositories.csproj|d:\\cnpm\\koifishh\\koifishapp.repositories\\interfaces\\ikoifishrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9106B336-ED62-475A-B3B2-1FADBEEA6E38}|KoiFishApp.Repositories\\KoiFishApp.Repositories.csproj|solutionrelative:koifishapp.repositories\\interfaces\\ikoifishrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml.cs",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:15:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml.cs",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:15:37.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:15:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml.cs",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Create.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:15:36.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KoiFishRepositories.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.Repositories\\KoiFishRepositories.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.Repositories\\KoiFishRepositories.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.Repositories\\KoiFishRepositories.cs",
+              "RelativeToolTip": "KoiFishApp.Repositories\\KoiFishRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:24:13.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:15:37.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml.cs",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Delete.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:15:37.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml.cs",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:15:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:15:36.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:15:37.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Pages\\CTKoiFish\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T16:15:36.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.WebApplication\\Program.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.WebApplication\\Program.cs",
+              "RelativeToolTip": "KoiFishApp.WebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:59:04.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KoiFishServices.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.Services\\KoiFishServices.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.Services\\KoiFishServices.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.Services\\KoiFishServices.cs",
+              "RelativeToolTip": "KoiFishApp.Services\\KoiFishServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:52:55.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IKoiFishServices.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.Services\\Interfaces\\IKoiFishServices.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.Services\\Interfaces\\IKoiFishServices.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.Services\\Interfaces\\IKoiFishServices.cs",
+              "RelativeToolTip": "KoiFishApp.Services\\Interfaces\\IKoiFishServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:48:47.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QlcktnContext.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.Repositories\\Entities\\QlcktnContext.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.Repositories\\Entities\\QlcktnContext.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.Repositories\\Entities\\QlcktnContext.cs",
+              "RelativeToolTip": "KoiFishApp.Repositories\\Entities\\QlcktnContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IKoiFishRepositories.cs",
+              "DocumentMoniker": "D:\\CNPM\\KoiFishh\\KoiFishApp.Repositories\\Interfaces\\IKoiFishRepositories.cs",
+              "RelativeDocumentMoniker": "KoiFishApp.Repositories\\Interfaces\\IKoiFishRepositories.cs",
+              "ToolTip": "D:\\CNPM\\KoiFishh\\KoiFishApp.Repositories\\Interfaces\\IKoiFishRepositories.cs",
+              "RelativeToolTip": "KoiFishApp.Repositories\\Interfaces\\IKoiFishRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:19:34.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
