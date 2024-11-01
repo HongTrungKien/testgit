@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KoiFishApp.Repositories",
+    "\\KoiFishApp.Services",
+    "\\KoiFishApp.WebApplication",
+    "\\KoiFishApp.WebApplication\\Pages",
+    "\\KoiFishApp.WebApplication\\Pages\\CTKoiFish"
+  ],
+  "SelectedNode": "\\KoiFishApp.Services\\KoiFishServices.cs",
+  "PreviewInSolutionExplorer": false
+}
